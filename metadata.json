@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Art History Lingo",
+  "description": "An interactive art history learning app with card collections, structured paths, and AI-powered art insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
